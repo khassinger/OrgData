@@ -1,41 +1,14 @@
-id,parentId,name,lastName,position,image,email,phone_number,hire_date,job_id,salary,commission_pct,department_id,job_min_salary,location_state,job_max_salary,department_name,department_location_id,department_location_street_address,department_location_postal_code,department_location_country_id,department_location_country_name,department_location_country_region_id,department_location_country_region_name
-100,,John Wherry,Consortium Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/JWherry.jpg,University of Pennsylvania,Colton,,,,,,,,,,,,,,,,,
-101,100,John Wherry,Penn Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/JWherry.jpg,University of Pennsylvania,Colton,,,,,,,,,,,,,,,,,
-102,100,Jose Scher,NYU Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/jose-u-scher-square.jpg,New York University,Colton,,,,,,,,,,,,,,,,,
-103,100,Uri Nevo,TAU Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Uri_Nevo.jpg,Tel Aviv University,Colton,,,,,,,,,,,,,,,,,
-104,100,Joe Craft,Yale Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Joe_Craft.jpg,Yale University,Colton,,,,,,,,,,,,,,,,,
-105,101,Ken Hassinger,Penn Operations Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Ken_Headshot.png,University of Pennsylvania,Colton,,,,,,,,,,,,,,,,,
-106,101,Amelia Klein,Development,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Amelia_Klein.png,University of Pennsylvania,Colton,,,,,,,,,,,,,,,,,
-107,101,External Advisory Board,Penn External Advisory Board,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Mark_Anderson.jpg,University of Pennsylvania,Colton,,,,,,,,,,,,,,,,,
-108,107,"Mark Anderson, MD, PhD",Penn External Advisory Board,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Mark_Anderson.jpg,University of Pennsylvania,Colton,,,,,,,,,,,,,,,,,
-109,107,"Jane Buckner, MD",Penn External Advisory Board,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Jane_Buckner.jpg,University of Pennsylvania,Colton,,,,,,,,,,,,,,,,,
-110,107,"Barbara Schilberg, JD",Penn External Advisory Board,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Barbara_Schilberg.jpg,University of Pennsylvania,Colton,,,,,,,,,,,,,,,,,
-111,107,"Mariana Kaplan, MD",Penn External Advisory Board,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Mariana_Kaplan.jpg,University of Pennsylvania,Colton,,,,,,,,,,,,,,,,,
-112,107,"John Monroe, PhD",Penn External Advisory Board,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/John_Monroe.jpg,University of Pennsylvania,Colton,,,,,,,,,,,,,,,,,
-113,,,,,,,,,,,,,,,,,,,,,,,
-114,,,,,,,,,,,,,,,,,,,,,,,
-115,,,,,,,,,,,,,,,,,,,,,,,
-116,,,,,,,,,,,,,,,,,,,,,,,
-117,,,,,,,,,,,,,,,,,,,,,,,
-118,,,,,,,,,,,,,,,,,,,,,,,
-119,,,,,,,,,,,,,,,,,,,,,,,
-120,,,,,,,,,,,,,,,,,,,,,,,
-121,,,,,,,,,,,,,,,,,,,,,,,
-122,,,,,,,,,,,,,,,,,,,,,,,
-123,,,,,,,,,,,,,,,,,,,,,,,
-124,,,,,,,,,,,,,,,,,,,,,,,
-125,,,,,,,,,,,,,,,,,,,,,,,
-126,,,,,,,,,,,,,,,,,,,,,,,
-127,,,,,,,,,,,,,,,,,,,,,,,
-128,,,,,,,,,,,,,,,,,,,,,,,
-129,,,,,,,,,,,,,,,,,,,,,,,
-130,,,,,,,,,,,,,,,,,,,,,,,
-131,,,,,,,,,,,,,,,,,,,,,,,
-132,,,,,,,,,,,,,,,,,,,,,,,
-133,,,,,,,,,,,,,,,,,,,,,,,
-134,,,,,,,,,,,,,,,,,,,,,,,
-135,,,,,,,,,,,,,,,,,,,,,,,
-136,,,,,,,,,,,,,,,,,,,,,,,
-137,,,,,,,,,,,,,,,,,,,,,,,
-138,,,,,,,,,,,,,,,,,,,,,,,
-139,,,,,,,,,,,,,,,,,,,,,,,
+id,parentId,name,lastName,position,image,email
+100,,John Wherry,Consortium Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/JWherry.jpg,University of Pennsylvania,Colton
+101,100,John Wherry,Penn Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/JWherry.jpg,University of Pennsylvania,Colton
+102,100,Jose Scher,NYU Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/jose-u-scher-square.jpg,New York University,Colton
+103,100,Uri Nevo,TAU Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Uri_Nevo.jpg,Tel Aviv University,Colton
+104,100,Joe Craft,Yale Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Joe_Craft.jpg,Yale University,Colton
+105,101,Ken Hassinger,Penn Operations Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Ken_Headshot.png,University of Pennsylvania,Colton
+106,101,Amelia Klein,Development,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Amelia_Klein.png,University of Pennsylvania,Colton
+107,101,External Advisory Board,Penn External Advisory Board,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Mark_Anderson.jpg,University of Pennsylvania,Colton
+108,107,"Mark Anderson, MD, PhD",Penn External Advisory Board,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Mark_Anderson.jpg,University of Pennsylvania,Colton
+109,107,"Jane Buckner, MD",Penn External Advisory Board,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Jane_Buckner.jpg,University of Pennsylvania,Colton
+110,107,"Barbara Schilberg, JD",Penn External Advisory Board,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Barbara_Schilberg.jpg,University of Pennsylvania,Colton
+111,107,"Mariana Kaplan, MD",Penn External Advisory Board,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Mariana_Kaplan.jpg,University of Pennsylvania,Colton
+112,107,"John Monroe, PhD",Penn External Advisory Board,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/John_Monroe.jpg,University of Pennsylvania,Colton
