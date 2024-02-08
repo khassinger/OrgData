@@ -2,10 +2,10 @@ id,parentId,name,position,image,university,center
 100,,John Wherry,Consortium Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/JWherry.jpg,University of Pennsylvania,Colton
 101,100,John Wherry,Penn Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/JWherry.jpg,University of Pennsylvania,Colton
 102,100,Jose Scher,NYU Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/jose-u-scher-square.jpg,New York University,Colton
-103,100,Uri Nevo,TAU Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Uri Nevo.jpg,Tel Aviv University,Colton
+103,100,Uri Nevo,TAU Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Uri_Nevo.jpg,Tel Aviv University,Colton
 104,100,Joe Craft,Yale Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Joe_Craft.jpg,Yale University,Colton
 105,101,Ken Hassinger,Penn Operations Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Ken_Headshot.png,University of Pennsylvania,Colton
-106,101,Amelia Klein,Development,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Amelia Klein.png,University of Pennsylvania,Colton
+106,101,Amelia Klein,Development,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Amelia_Klein.png,University of Pennsylvania,Colton
 107,101,External Advisory Board,Penn External Advisory Board,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Mark_Anderson.jpg,University of Pennsylvania,Colton
 108,107,"Mark Anderson, MD, PhD",Penn External Advisory Board,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Mark_Anderson.jpg,University of Pennsylvania,Colton
 109,107,"Jane Buckner, MD",Penn External Advisory Board,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Jane_Buckner.jpg,University of Pennsylvania,Colton
