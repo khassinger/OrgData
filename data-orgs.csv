@@ -1,6 +1,5 @@
 id,parentId,name,position,image,university,affiliation
 100,,John Wherry,Consortium Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/JWherry.jpg,University of Pennsylvania,Colton
-101,100,John Wherry,Penn Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/JWherry.jpg,University of Pennsylvania,Colton
 102,100,Jose Scher,NYU Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/jose-u-scher-square.jpg,New York University,Colton
 103,100,Uri Nevo,TAU Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Uri_Nevo.jpg,Tel Aviv University,Colton
 104,100,Joe Craft,Yale Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Joe_Craft.jpg,Yale University,Colton
