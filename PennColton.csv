@@ -1,4 +1,4 @@
-id,parentId,DottedLineReports,name,position,image,university,affiliation
+id,parentId,dottedLineReports,name,position,image,university,affiliation
 100,,,John Wherry,Director of Institute for Immunology & Immune Health,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/JWherry.jpg,University of Pennsylvania,I3H
 101,100,,John Wherry,Penn Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/JWherry.jpg,University of Pennsylvania,Penn Colton
 102,101,,Ken Hassinger,Penn Operations Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Ken_Headshot.png,University of Pennsylvania,Penn Colton
