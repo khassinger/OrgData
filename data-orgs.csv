@@ -119,4 +119,4 @@ id,parentId,name,position,image,university,affiliation
 217,100,Colton Consortium,Colton Consortium,,University of Pennsylvania,
 218,100,I3H,Penn Institute for Immunology & Immune Health,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,I3H
 219,218,John Wherry,I3H Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/JWherry.jpg,University of Pennsylvania,I3H
-220,101,Development Team,Penn Development Team,,,
+220,101,Development Team,Penn Development Team,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,Penn Colton
