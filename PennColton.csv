@@ -1,7 +1,7 @@
 id,parentId,dottedLineReports,name,position,image,university,affiliation
-100,,,John Wherry,Director of Institute for Immunology & Immune Health,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/JWherry.jpg,University of Pennsylvania,I3H
-101,100,,John Wherry,Penn Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/JWherry.jpg,University of Pennsylvania,Penn Colton
-102,101,,Ken Hassinger,Penn Operations Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/Ken_Headshot.png,University of Pennsylvania,Penn Colton
+100,,,John Wherry,Director of Institute for Immunology & Immune Health,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,I3H
+101,100,,John Wherry,Penn Colton Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,Penn Colton
+102,101,,Ken Hassinger,Penn Operations Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,Penn Colton
 103,149,,Amelia Klein,Associate Director of Development for Biomedical Research,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,Penn Colton
 104,101,,External Advisory Board,Penn External Advisory Board,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,Penn Colton
 105,100,,Allie Greenplate,Director of Strategic Alliance & Operations,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,I3H
@@ -44,9 +44,9 @@ id,parentId,dottedLineReports,name,position,image,university,affiliation
 142,139,,Jeanette Dougherty,Coordinator,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,I3H
 143,139,,TBN Posting,TBN Posting,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,I3H
 144,100,,Kaitlyn Piazza,Director of Finance and Administration,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,I3H
-145,144,,Tara Duer,Admin Coordinator,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,I3H
+145,167,,Tara Duer,Admin Coordinator,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,I3H
 146,144,,Sabir Copeland,Financial Coordinator,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,I3H
-147,144,,Samantha Halter,Program Coordinator,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,I3H
+147,167,,Samantha Halter,Program Coordinator,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,I3H
 148,166,,Torren Blair,Chief Executive Director,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,Penn Colton
 149,148,,Sarah Gilmour,Director of Development for Biomedical Research,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,Penn Colton
 150,101,,Pilot Programs,Penn Colton Pilot Programs,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,Penn Colton
@@ -66,3 +66,5 @@ id,parentId,dottedLineReports,name,position,image,university,affiliation
 164,163,,David Porter,Penn Colton Centers of Excellence,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,Penn Colton
 165,163,,Jim Riley,Penn Colton Centers of Excellence,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,Penn Colton
 166,101,,Development Team,Penn Development Team,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,University of Pennsylvania,Penn Colton
+167,144,,TBN,Program Manager,https://raw.githubusercontent.com/khassinger/OrgData/main/Pics/PennLogo.png,,
+168,101,,TBN,Scientific Director,,,
